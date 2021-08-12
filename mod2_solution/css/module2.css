@@ -1,16 +1,17 @@
 *{ 
 		box-sizing: border-box;
-    font-family: cursive;
+    font-family:  sans-serif;
+
 	} 
 
 	h1 {
     text-align: center;
-
   } 
   /**I set the divs position to relative so the children of this div can use this tag 
    * as reference **/
   div{
     position: relative;
+    font-size: 20px;
   }
 
   p{
@@ -26,7 +27,7 @@
   #menu1{
     position: absolute;
     right: 0px;
-    width: 80px;
+    width: 100px;
     text-align: center;
     padding: 5px;
     border: 1px solid black;
@@ -36,7 +37,7 @@
   #menu2{
     position: absolute;
     right: 0px;
-    width: 80px;
+    width: 100px;
     text-align: center;
     padding: 5px;
     border: 1px solid black;
@@ -46,7 +47,7 @@
   #menu3{
     position: absolute;
     right: 0px;
-    width: 80px;
+    width: 100px;
     text-align: center;
     padding: 5px;
     border: 1px solid black;
