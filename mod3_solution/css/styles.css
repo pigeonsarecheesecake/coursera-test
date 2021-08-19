@@ -1,0 +1,62 @@
+/*Navbar*/
+
+#header-nav{
+	background-color: lightgray;
+	height: 100px;
+	margin: 0px;
+}	
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	  text-decoration: none;}
+	  
+div.container{
+	margin: 0px;	
+	}
+
+.navbar-brand h1{
+	color: black;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	line-height: .75;
+}
+/* Collapse Toggle */
+
+li{
+	text-align: center;
+	padding: 5px;	
+}
+
+hr{
+ 	border: 1px solid black;
+ }
+
+#collapsable-nav{
+	background-color: grey;
+}
+
+
+/*main content*/
+#div1{
+	background-color: grey;
+	margin: 40px;
+	height: 1000px;
+	overflow: hidden;
+	margin-top: 0px;
+}
+
+h2{
+	padding: 10px;
+}
+p{
+	padding: 10px;
+}
+#h1-1{
+	padding: 20px;
+	color: black;
+  text-shadow: 1px 1px 1px #222;
+  line-height: .75;
+  margin: 0px;
+}
+
+
